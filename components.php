@@ -127,14 +127,14 @@ function me_get_footer($area = 'Welcome'){
       $output .=       
       '<div id = "footer-wrapper">
           <p class="body">
-		
+		testing 123
         </div>';
       break;
     case 'registries':
       $output .= 
       '<div id = "footer-wrapper">
           <p class="body">
-		
+		testing 123
         </p>
         </div>';
       break;
@@ -142,7 +142,7 @@ function me_get_footer($area = 'Welcome'){
       $output .=
       '<div id = "footer-wrapper">
           <p class="body">
-		
+		testing 123
         </p>
         </div>';
     }    
